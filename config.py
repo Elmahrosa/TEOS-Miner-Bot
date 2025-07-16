@@ -1,1 +1,3 @@
-# config.py content
+# Configuration file
+BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+DB_URL = 'YOUR_DB_URL'
